@@ -9,4 +9,6 @@ Dies ist eine grobe Gliederung der Themen für meine GFS.
 
 ###### Fun Facts bisher:
 Wenn der Atomkern so groß wäre wie eine Murmel, Dann wäre das komplette Atom sie groß wie ein Fußballstadium. Und die Murmel so dicht wie ein schwarzes Loch.
+
+ *Quellen: [[Quellenliste]]*
  
