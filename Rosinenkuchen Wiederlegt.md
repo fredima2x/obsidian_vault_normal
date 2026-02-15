@@ -1,3 +1,4 @@
+*Punkt in [[GFS_Gliederung]].*
 #### Goldfolien Experiment
 Rutherford schießt Positive teilchen auf eine Dünne Goldfolie. Die Positiven Teilchen Fliegen grade durch die Folie hindurch. Diese wurden auf dem dahinterinstallierten Sichtschirm sichtbar. Ein paar Teilchen weichen allerdings ab: Das konnte zu dem damaligen Zeitpunkt allerdings nicht erklärt werden.
 #### Schlussfolgerung:

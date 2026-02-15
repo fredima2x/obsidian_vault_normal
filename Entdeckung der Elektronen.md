@@ -1,3 +1,5 @@
+*Punkt in [[GFS_Gliederung]].*
+
 Kathodenstrahlung wird entdeckt. *Selbe Strahlung wie in Röhrenfernsehern* (Wurde nicht von Thompson entdeckt!)
 
 #### Entdeckungen:

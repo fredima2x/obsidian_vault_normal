@@ -1,3 +1,5 @@
+*Punkt in [[GFS_Gliederung]].*
+
 - Die Ganze Natur besteht aus kleinen unteilbaren Teilchen.
 - Atom kommt aus dem Grichischen Atomos - "unteilbar".
 - John Dalton war Naturforscher und Lehrer.
