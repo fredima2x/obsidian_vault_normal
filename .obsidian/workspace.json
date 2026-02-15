@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0fd27b292535e112",
+        "id": "2dd766368bf13e10",
         "type": "tabs",
         "children": [
           {
-            "id": "015bb836b9b7645f",
+            "id": "00eebf0b40438c86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atom-Modell nach John Dalton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Atom-Modell nach John Dalton"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "16c1c785d01cfc01",
@@ -195,13 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "015bb836b9b7645f",
+  "active": "00eebf0b40438c86",
   "lastOpenFiles": [
-    "Entdeckung der Elektronen.md",
-    "Rosinenkuchen Wiederlegt.md",
-    "Rosinenkuchen.md",
     "GFS_Gliederung.md",
+    "Rosinenkuchen.md",
+    "Rosinenkuchen Wiederlegt.md",
     "Atom-Modell nach John Dalton.md",
+    "Entdeckung der Elektronen.md",
     "Welcome.md",
     "Excalidraw/Drawing 2026-02-15 15.27.22.excalidraw.md",
     "Excalidraw"
