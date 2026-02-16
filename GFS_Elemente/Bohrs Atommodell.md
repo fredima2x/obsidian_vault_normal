@@ -1,4 +1,6 @@
 Nach dem [bohrschen Atommodell](https://de.wikipedia.org/wiki/Bohrsches_Atommodell "Bohrsches Atommodell") (1913) besteht das Atom aus einem positiv geladenen, massetragenden Kern und Elektronen, die diesen auf bestimmten Kreisbahnen umkreisen, ohne Energie abzustrahlen.
 
 - Das **Bohrsche Atommodell** wurde 1913 von [Niels Bohr](https://de.wikipedia.org/wiki/Niels_Bohr "Niels Bohr") entwickelt. Es war das erste [Atommodell](https://de.wikipedia.org/wiki/Atommodell "Atommodell") mit Elementen der (damals noch nicht entwickelten) [Quantenmechanik](https://de.wikipedia.org/wiki/Quantenmechanik "Quantenmechanik"), das weite Anerkennung fand.
-- 
+
+
+ *Quellen: [[Quellenliste]]*

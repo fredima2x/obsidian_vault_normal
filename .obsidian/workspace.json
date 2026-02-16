@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f76fb4e0eece8136",
+        "id": "6b45f61d12d809bd",
         "type": "tabs",
         "children": [
           {
-            "id": "479db7da6b39f794",
+            "id": "b5bbfb7c3700e0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,15 +20,43 @@
               "icon": "lucide-file",
               "title": "Main"
             }
+          },
+          {
+            "id": "bc9fcacff621e060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFS_Elemente/Entdeckung der Elektronen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entdeckung der Elektronen"
+            }
+          },
+          {
+            "id": "3bc7779102a411f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFS_Gliederung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GFS_Gliederung"
+            }
           }
         ]
       },
       {
-        "id": "e19ab6e93e2d615c",
+        "id": "2c38bfd900483bb4",
         "type": "tabs",
         "children": [
           {
-            "id": "d834bf1aa809f368",
+            "id": "2226925d4b8f65ad",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -90,12 +118,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 334.5
   },
   "right": {
     "id": "16c1c785d01cfc01",
@@ -225,25 +252,50 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "d834bf1aa809f368",
+  "active": "2226925d4b8f65ad",
   "lastOpenFiles": [
-    "style/my_modern.css.md",
-    "style/my_modern.css",
-    "Presentation/Main.md",
-    "style",
-    "GFS_Elemente/Demokrits Atome.md",
     "GFS_Elemente/Entdeckung der Elektronen.md",
-    "GFS_Elemente/Atom-Modell nach John Dalton.md",
-    "GFS_Elemente/Bohrs Atommodell.md",
-    "Quellenliste.md",
+    "Presentation/Main.md",
     "GFS_Gliederung.md",
+    "GFS_Elemente/Bohrs Atommodell.md",
+    "GFS_Elemente/Demokrits Atome.md",
+    "Nutzung der Künstlichen Intelligenz.md",
+    "Quellenliste.md",
+    "export/Main/plugin/math/katex/dist/README.md",
+    "export/Main/plugin/math/mathjax/CONTRIBUTING.md",
+    "export/Main/plugin/math/mathjax/input/mml/extensions/mml3.sef.json",
+    "export/Main/plugin/math/mathjax/input/mml/extensions/mml3.js",
+    "export/Main/plugin/math/mathjax/input/tex/extensions/verb.js",
+    "export/Main/plugin/math/mathjax/input/tex/extensions/upgreek.js",
+    "export/Main/plugin/math/mathjax/input/tex/extensions/units.js",
+    "export/Main/plugin/math/mathjax/input/tex/extensions/unicode.js",
+    "export/Main/plugin/math/mathjax/input/tex/extensions/textmacros.js",
+    "export/Main/plugin/math/mathjax/input/tex/extensions/textcomp.js",
+    "export/Main/plugin/math/mathjax/input/tex/extensions/texhtml.js",
+    "export/Main/plugin/math/mathjax/input/tex/extensions/tagformat.js",
+    "export/Main/plugin/math/mathjax/README.md",
+    "export/Main/plugin/chalkboard/img/whiteboard.png",
+    "export/Main/plugin/chalkboard/img/sponge.png",
+    "export/Main/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Main/plugin/chalkboard/img/chalk-white.png",
+    "export/Main/plugin/chalkboard/img/chalk-red.png",
+    "export/Main/plugin/chalkboard/img/chalk-purple.png",
+    "export/Main/plugin/chalkboard/img/chalk-orange.png",
+    "export/Main/plugin/chalkboard/img/chalk-green.png",
+    "export/Main/plugin/chalkboard/img/chalk-blue.png",
+    "export/Main/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/Main/plugin/menu/README.md",
+    "export/Main/plugin/menu/CONTRIBUTING.md",
+    "export/Main/plugin/customcontrols/README.md",
+    "export/Main/plugin/chart/README.md",
+    "export/Main/plugin/chalkboard/README.md",
+    "export/Main/dist/css/theme/README.md",
+    "style/my_modern.css.md",
+    "GFS_Elemente/Atom-Modell nach John Dalton.md",
     "GFS_Elemente/Rutherfords Atommodell.md",
     "GFS_Elemente/Rosinenkuchen.md",
-    "GFS_Elemente",
     "Presentation/Presentation!.md",
-    "Presentation",
     "Welcome.md",
-    "Excalidraw/Drawing 2026-02-15 15.27.22.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2026-02-15 15.27.22.excalidraw.md"
   ]
 }
