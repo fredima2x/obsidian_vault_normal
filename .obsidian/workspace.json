@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "14f3c2fa5af12a4c",
+        "id": "e19ab6e93e2d615c",
         "type": "tabs",
         "children": [
           {
-            "id": "1ba756d2ee70d092",
+            "id": "d834bf1aa809f368",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -198,10 +198,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "style/my_modern.css.md"
+                "file": "Presentation/Main.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for my_modern.css"
+              "title": "File properties for Main"
             }
           }
         ],
@@ -225,10 +225,11 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "af6f88bf3b5fbd89",
+  "active": "d834bf1aa809f368",
   "lastOpenFiles": [
-    "Presentation/Main.md",
     "style/my_modern.css.md",
+    "style/my_modern.css",
+    "Presentation/Main.md",
     "style",
     "GFS_Elemente/Demokrits Atome.md",
     "GFS_Elemente/Entdeckung der Elektronen.md",

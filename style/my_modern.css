@@ -1,0 +1,179 @@
+/* =====================================================
+   Modern Obsidian Reveal Theme (Cube Compatible)
+   ===================================================== */
+
+:root {
+  --bg-main: #0f1226;
+  --bg-accent: #1a1f4a;
+  --glass-bg: rgba(255, 255, 255, 0.05);
+  --glass-border: rgba(255, 255, 255, 0.1);
+
+  --accent: #7c5cff;
+  --accent-2: #00d4ff;
+
+  --text-main: #f5f7fa;
+  --text-muted: #aab0c0;
+}
+
+/* =====================================================
+   Base Layout
+   ===================================================== */
+
+.reveal {
+  background: radial-gradient(circle at top left, var(--bg-accent), var(--bg-main) 60%);
+  color: var(--text-main);
+  font-family: "Inter", "SF Pro Display", sans-serif;
+}
+
+/* Wichtig: KEIN transform override */
+.reveal .slides {
+  text-align: left;
+}
+
+/* Nur Padding – kein Positioning Hack */
+.reveal .slides section {
+  padding: 3rem;
+  box-sizing: border-box;
+}
+
+/* =====================================================
+   Headings
+   ===================================================== */
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  font-weight: 700;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1rem;
+}
+
+.reveal h1 { font-size: 3rem; }
+.reveal h2 { font-size: 2.2rem; }
+.reveal h3 { font-size: 1.6rem; }
+
+/* =====================================================
+   Text
+   ===================================================== */
+
+.reveal p {
+  color: var(--text-muted);
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+/* =====================================================
+   Glass Cards
+   ===================================================== */
+
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(18px);
+  border: 1px solid var(--glass-border);
+  border-radius: 18px;
+  padding: 1.8rem;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.45);
+}
+
+/* =====================================================
+   Lists
+   ===================================================== */
+
+.reveal ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.reveal ul li {
+  margin: 0.5rem 0;
+}
+
+.reveal ul li::before {
+  content: "▹";
+  color: var(--accent);
+  margin-right: 0.6rem;
+}
+
+/* =====================================================
+   Code Blocks
+   ===================================================== */
+
+.reveal pre {
+  background: #151932;
+  border-radius: 14px;
+  padding: 1.2rem;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+  font-size: 0.95rem;
+}
+
+.reveal code {
+  color: var(--accent-2);
+  font-family: "Fira Code", monospace;
+}
+
+/* =====================================================
+   Tables
+   ===================================================== */
+
+.reveal table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.reveal th {
+  background: rgba(124, 92, 255, 0.15);
+  padding: 0.8rem;
+}
+
+.reveal td {
+  padding: 0.8rem;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+/* =====================================================
+   Links
+   ===================================================== */
+
+.reveal a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+.reveal a:hover {
+  text-shadow: 0 0 12px var(--accent);
+}
+
+/* =====================================================
+   Title Slide
+   ===================================================== */
+
+.title-slide {
+  text-align: center;
+}
+
+.title-slide h1 {
+  font-size: 3.5rem;
+}
+
+.title-slide p {
+  font-size: 1.3rem;
+  color: var(--text-muted);
+}
+
+/* =====================================================
+   Cube Enhancement (optional polish)
+   ===================================================== */
+
+/* Mehr Tiefenwirkung */
+.reveal.cube .slides {
+  perspective: 1800px;
+}
+
+/* Subtiles Leuchten bei aktivem Slide */
+.reveal.cube .slides section.present {
+  box-shadow: 0 0 60px rgba(124,92,255,0.25);
+}
+

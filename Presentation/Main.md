@@ -26,8 +26,7 @@ Der griechische Philosoph **Demokrit** (ca. 460–370 v. Chr.) entwickelte eine 
 - Sie sind die Grundbausteine aller Materie.
 - Zwischen ihnen befindet sich leerer Raum.
 
-Das Wort *Atom* stammt vom griechischen Wort **„atomos“** und bedeutet:  
-👉 *„unteilbar“*
+Das Wort *Atom* stammt vom griechischen Wort **„atomos“** und bedeutet:  "unteilbar"
 
 ---
 
@@ -42,7 +41,7 @@ John Dalton formulierte Anfang des 19. Jahrhunderts die erste wissenschaftliche 
 - Atome verschiedener Elemente unterscheiden sich in Masse und Eigenschaften.
 - Bei chemischen Reaktionen werden Atome **neu angeordnet**, aber nicht zerstört.
 
-🟢 Wichtig: Daltons Modell war das erste naturwissenschaftlich begründete Atommodell.
+Wichtig: Daltons Modell war das erste naturwissenschaftlich begründete Atommodell.
 
 ---
 
