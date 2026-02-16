@@ -1,6 +1,6 @@
 Dies ist eine grobe Gliederung der Themen für meine GFS.
 ### Themen:
-- Demokrit erfindet die Atome
+- Demokrit erfindet die Atome [[Demokrits Atome]]
 - John Dalton [[Atom-Modell nach John Dalton]]
 - Joseph Thompson [[Entdeckung der Elektronen]]
 - Ernest Rutherford [[Rosinenkuchen]]
