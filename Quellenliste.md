@@ -1,6 +1,5 @@
 Podcast: Chemie Erklärt Folge 1 - Atommodelle *(Link: [Spotify Podcast Folge](https://open.spotify.com/episode/1dYg7wXASQ2WfBsEdPCrEY))*
-Web: [Wikipedia Atom](https://de.wikipedia.org/wiki/Atom)
-
+Web: [Wikipedia Atom](https://de.wikipedia.org/wiki/Atom), [Wikipedia Bohrs Atommodell](https://de.wikipedia.org/wiki/Bohrsches_Atommodell),
 #### Nutzung Künstlicher Intelligenz:
 ##### Allgemeine Benutzung:
 In der Erstellung Dieser Wissensdatenbank, sowie der Dazugehörigen GFS-Präsentation wurden Künstliche Intelligenzen verwendet. Sie wurde zum durchsuchen des Internet und dem Auffinden von Websites, sowie dem auf Rechtschreibung Korrigieren von Texten und dem erstellen von Markdown Presentationen verwendet.
