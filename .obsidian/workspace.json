@@ -90,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,10 +198,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Presentation/Main.md"
+                "file": "style/my_modern.css.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Main"
+              "title": "File properties for my_modern.css"
             }
           }
         ],
@@ -224,18 +225,19 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "1ba756d2ee70d092",
+  "active": "af6f88bf3b5fbd89",
   "lastOpenFiles": [
     "Presentation/Main.md",
-    "Quellenliste.md",
-    "GFS_Elemente/Bohrs Atommodell.md",
+    "style/my_modern.css.md",
+    "style",
+    "GFS_Elemente/Demokrits Atome.md",
     "GFS_Elemente/Entdeckung der Elektronen.md",
+    "GFS_Elemente/Atom-Modell nach John Dalton.md",
+    "GFS_Elemente/Bohrs Atommodell.md",
+    "Quellenliste.md",
     "GFS_Gliederung.md",
     "GFS_Elemente/Rutherfords Atommodell.md",
     "GFS_Elemente/Rosinenkuchen.md",
-    "Untitled.md",
-    "GFS_Elemente/Atom-Modell nach John Dalton.md",
-    "GFS_Elemente/Demokrits Atome.md",
     "GFS_Elemente",
     "Presentation/Presentation!.md",
     "Presentation",
