@@ -50,22 +50,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2c38bfd900483bb4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2226925d4b8f65ad",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Main.md"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -252,8 +236,10 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "2226925d4b8f65ad",
+  "active": "b5bbfb7c3700e0e6",
   "lastOpenFiles": [
+    "style/my_new_new.css",
+    "style/my_new.css",
     "GFS_Elemente/Entdeckung der Elektronen.md",
     "Presentation/Main.md",
     "GFS_Gliederung.md",
@@ -272,7 +258,6 @@
     "export/Main/plugin/math/mathjax/input/tex/extensions/textmacros.js",
     "export/Main/plugin/math/mathjax/input/tex/extensions/textcomp.js",
     "export/Main/plugin/math/mathjax/input/tex/extensions/texhtml.js",
-    "export/Main/plugin/math/mathjax/input/tex/extensions/tagformat.js",
     "export/Main/plugin/math/mathjax/README.md",
     "export/Main/plugin/chalkboard/img/whiteboard.png",
     "export/Main/plugin/chalkboard/img/sponge.png",

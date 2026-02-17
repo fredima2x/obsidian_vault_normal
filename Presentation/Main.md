@@ -46,4 +46,9 @@ Wichtig: Daltons Modell war das erste naturwissenschaftlich begründete Atommode
 
 ## Thompsons Atommodell
 
-Thompson bemerkt das sogennante Khatodenstrahlung durch Positive platten Ablenkbar ist, daraus schlussfolgert er, das die Teilchen in der Strahlung negativ sein müssen.
+Thompson bemerkt das sogennante Khatodenstrahlung durch Positive platten Ablenkbar ist, daraus schlussfolgert er, das die Teilchen in der Strahlung negativ sein müssen. Er entdeckt diese Subatomaren Teilchen und nennt sie **Elektronen**. Außerdem entdeckt er das die **Protonen** (Das Positiv geladene Gegenstück der Elektronen) gut 2000 mal so viel Masse hat.
+<br/>
+### Sein Atommodell:
+- Auf einem Klumpen aus riesigen Protonen sind die kleineren Elektronen verteilt.
+- Er meint es wäre so wie ein **Rosinenkuchen**, bei dem Der Kuchen die/das Proton und die Rosinen die Elektronen wären.
+
