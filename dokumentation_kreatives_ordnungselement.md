@@ -9,3 +9,9 @@ Bau eines kreativen Ordnungselement zum Ordnen von **Schreibtischutensilien**. I
 ### Technische Zeichnung
 **Vorderansicht:**
 ![[bild.png]]
+
+## Dokumentation
+### Grundblock
+Als allerersten Schritt, habe ich die zu bohrenden Löcher in den Grundblock eingezeichnet. Dann zuerst die Großen dann die kleineren. Da die kleineren zum halten von Stiften da  waren stieß ich auf folgendes Problem: Die Löcher waren zu klein für die Stifte, sie waren zwar exakt abgemessen aber es reichte trotzdem nicht.
+**Anderung:** Der durchmesser der kleinen Löcher wird von 6mm auf 10mm erhöht.
+
