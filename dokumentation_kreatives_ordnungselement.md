@@ -10,8 +10,10 @@ Bau eines kreativen Ordnungselement zum Ordnen von **Schreibtischutensilien**. I
 **Vorderansicht:**
 ![[bild.png]]
 
-## Dokumentation
+## Vorgehen und Probleme beim Bau
 ### Grundblock
-Als allerersten Schritt, habe ich die zu bohrenden Löcher in den Grundblock eingezeichnet. Dann zuerst die Großen dann die kleineren. Da die kleineren zum halten von Stiften da  waren stieß ich auf folgendes Problem: Die Löcher waren zu klein für die Stifte, sie waren zwar exakt abgemessen aber es reichte trotzdem nicht.
-**Anderung:** Der durchmesser der kleinen Löcher wird von 6mm auf 10mm erhöht.
+- Zuerst hab ich mit dem Forsterbohrer die großen Löcher im Holzklotz ausgebohrt.
+- Die *kleinen Löcher* für die Stifte gebohrt
+**Problem:** Die Löcher sind zu klein für Stifte
+**Lösung:** Ih vergrößere die Löcher im Block
 
