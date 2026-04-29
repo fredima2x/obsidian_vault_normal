@@ -13,8 +13,13 @@
 Bau eines kreativen Ordnungselement zum Ordnen von **Schreibutensilien**. In die Oberseite des Holzklotzes sind **6 Löcher** zum Halten von Stiften gebohrt. Eines ist dabei etwas Größer um auch das Halten von **Klebestiften**, Flaschen und ähnlichen größeren Objekten zu gewährleisten. Ein **Griff** an der Oberseite macht das Element, **mobil und einfach tragbar**.
 ### Ideenskizze
 ![[skizze.excalidra]]
+
+
 ### Technische Zeichnung
 **Vorderansicht:**
+![[f_nwt.png]]
+**Aufsicht:**
+![[o_nwt.png]]
 
 ---
 ## Vorgehen und Probleme beim Bau
