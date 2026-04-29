@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "714b6584c18dea3a",
+    "id": "bd70b4696b2b113f",
     "type": "split",
     "children": [
       {
-        "id": "b8e9d082a2155f6f",
+        "id": "b35f587bd9d361c4",
         "type": "tabs",
         "children": [
           {
-            "id": "0560cb8be8d982f4",
+            "id": "ab3d3554e1ba21fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "dokumentation_kreatives_ordnungselement"
             }
-          },
-          {
-            "id": "537f4df89fa83247",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/skizze.excalidra.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "skizze.excalidra"
-            }
           }
         ]
       }
@@ -39,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "94167c0131608e41",
+    "id": "8416a2e9554c4fe2",
     "type": "split",
     "children": [
       {
-        "id": "b60562938bd14fd8",
+        "id": "878f4f37251aa839",
         "type": "tabs",
         "children": [
           {
-            "id": "868a902ecc4e08a1",
+            "id": "b6f1a053fda15dd3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +48,7 @@
             }
           },
           {
-            "id": "af6f88bf3b5fbd89",
+            "id": "9aa29a81b47179e7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,40 +61,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
-            "id": "745bc3a3083c487e",
+            "id": "b47fa3de7022199a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Lesezeichen"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 300
   },
   "right": {
-    "id": "16c1c785d01cfc01",
+    "id": "4249c77d21a7eac5",
     "type": "split",
     "children": [
       {
-        "id": "ebe5ff3d9ea1c9cc",
+        "id": "ff993fea3a31f61f",
         "type": "tabs",
         "children": [
           {
-            "id": "3eb8b7a8c0f4c779",
+            "id": "8f1081672987ae1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Presentation/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Rückverweise auf Main"
             }
           },
           {
-            "id": "e6d2c9ccc3c59868",
+            "id": "e031b5574d8b04cb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Presentation/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Ausgehende Links von Main öffnen"
             }
           },
           {
-            "id": "da0f3c7c18ee7e85",
+            "id": "e047047bf1053026",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +137,7 @@
             }
           },
           {
-            "id": "564aaa25c2d57cf1",
+            "id": "c249892f981f30de",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -159,26 +147,26 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Alle Eigenschaften"
             }
           },
           {
-            "id": "b59073ada95290e9",
+            "id": "98053a487842bedf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Presentation/Main.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Gliederung von Main"
             }
           },
           {
-            "id": "eb5959d99f2acccf",
+            "id": "b195e8bed98ae4fb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -186,25 +174,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "d1c8d8eb9d4d40e2",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Presentation/Main.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Main"
-            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,53 +196,16 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "0560cb8be8d982f4",
+  "active": "ab3d3554e1ba21fb",
   "lastOpenFiles": [
-    "export/dokumentation_kreatives_ordnungselement.pdf",
-    "Excalidraw/skizze.excalidra.md",
-    "dokumentation_kreatives_ordnungselement.md",
-    "bild.png",
-    "Presentation/Main.md",
-    "nwt",
-    "style/my_new_new.css",
-    "style/my_new.css",
-    "GFS_Elemente/Entdeckung der Elektronen.md",
-    "GFS_Elemente/GFS_Gliederung.md",
-    "GFS_Elemente/Bohrs Atommodell.md",
-    "GFS_Elemente/Demokrits Atome.md",
-    "GFS_Elemente/Nutzung der Künstlichen Intelligenz.md",
     "GFS_Elemente/Quellenliste.md",
-    "export/Main/plugin/math/katex/dist/README.md",
-    "export/Main/plugin/math/mathjax/CONTRIBUTING.md",
-    "export/Main/plugin/math/mathjax/input/mml/extensions/mml3.sef.json",
-    "export/Main/plugin/math/mathjax/input/mml/extensions/mml3.js",
-    "export/Main/plugin/math/mathjax/input/tex/extensions/verb.js",
-    "export/Main/plugin/math/mathjax/input/tex/extensions/upgreek.js",
-    "export/Main/plugin/math/mathjax/input/tex/extensions/units.js",
-    "export/Main/plugin/math/mathjax/input/tex/extensions/unicode.js",
-    "export/Main/plugin/math/mathjax/input/tex/extensions/textmacros.js",
-    "export/Main/plugin/math/mathjax/README.md",
-    "export/Main/plugin/chalkboard/img/whiteboard.png",
-    "export/Main/plugin/chalkboard/img/sponge.png",
-    "export/Main/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Main/plugin/chalkboard/img/chalk-white.png",
-    "export/Main/plugin/chalkboard/img/chalk-red.png",
-    "export/Main/plugin/chalkboard/img/chalk-purple.png",
-    "export/Main/plugin/chalkboard/img/chalk-orange.png",
-    "export/Main/plugin/chalkboard/img/chalk-green.png",
-    "export/Main/plugin/chalkboard/img/chalk-blue.png",
-    "export/Main/plugin/menu/README.md",
-    "export/Main/plugin/menu/CONTRIBUTING.md",
-    "export/Main/plugin/customcontrols/README.md",
-    "export/Main/plugin/chart/README.md",
-    "export/Main/plugin/chalkboard/README.md",
-    "export/Main/dist/css/theme/README.md",
-    "style/my_modern.css.md",
-    "GFS_Elemente/Atom-Modell nach John Dalton.md",
     "GFS_Elemente/Rutherfords Atommodell.md",
-    "GFS_Elemente/Rosinenkuchen.md",
-    "Presentation/Presentation!.md",
-    "Welcome.md",
-    "Excalidraw/Drawing 2026-02-15 15.27.22.excalidraw.md"
+    "GFS_Elemente/Nutzung der Künstlichen Intelligenz.md",
+    "GFS_Elemente/GFS_Gliederung.md",
+    "GFS_Elemente/Demokrits Atome.md",
+    "GFS_Elemente/Bohrs Atommodell.md",
+    "GFS_Elemente/Atom-Modell nach John Dalton.md",
+    "GFS_Elemente/Entdeckung der Elektronen.md",
+    "Presentation/Main.md"
   ]
 }
