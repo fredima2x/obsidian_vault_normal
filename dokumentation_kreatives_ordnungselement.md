@@ -14,10 +14,11 @@ Bau eines kreativen Ordnungselement zum Ordnen von **Schreibtischutensilien**. I
 ### Grundblock
 - Zuerst hab ich mit dem Forsterbohrer die großen Löcher im Holzklotz ausgebohrt.
 - Die *kleinen Löcher* für die Stifte gebohrt
-**Problem:** Die Löcher sind zu klein für Stifte
-**Lösung:** Ich vergrößere die Löcher im Block, von 6 auf 10mm
 - Ich leime zwei zugeschnittene 1.5 cm Holzplatten aufeinander, so dass sie einen 3 cm dicken Holzblock ergeben.
 - Ich bohre ein Großes Loch in den Block.
 - Ich befestige den Block auf dem Grundblock, so dass die Löcher zueinander passen.
-- 
+  Das hat den Sinn, das man ein größeres Loch hat, um längere Objekte zu lagern. Das Loch muss deshalb so groß sein, da man mit dem Forsterbohrer maximal 5cm in den Klotz bohren kann.
+- Danach habe ich alle seiten des entstandenen Objekts abgeschliffen.
+- Daraufhin habe ich den Tragegriff zusammengebaut.
+- Danach habe ich den Griff an den Klotz geleimt, schrauben konnte ich nicht, da die Bohrungen im weg waren.
 
