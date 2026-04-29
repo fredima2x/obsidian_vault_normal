@@ -1,15 +1,22 @@
 # Dokumentation Kreatives Ordnungselement
-## Idee
-#### Ideenskizze
-![[skizze.excalidra]]
-#### Ideenbeschreibung
-Bau eines kreativen Ordnungselement zum Ordnen von **Schreibtischutensilien**. In die Oberseite des Holzklotzes sind **4 Löcher** zum Halten von Stiften gebohrt. Eines ist dabei etwas Größer um auch das Halten von **Klebestiften**, Flaschen und ähnlichen größeren Objekten zu gewährleisten. Ein **Griff** an der Vorderseite dient dazu, **Gummis** zu spannen um sie aufzubewahren. Für **Radiergummis** und andere Kleinteile ist ein **Seitenfach** geschaffen.
-## Planung
+## Inhaltsangabe
+**1.0** Planung
+	**1.1** Produktbeschreibung 
+	**1.2** Ideenskizze
+	**1.3** Technische Zeichnung
+**2.0** Dokumentation, Vorgehen und Probleme beim bau.
+**3.0** Abschluss
 
+---
+## Planung
+### Produktbeschreibung
+Bau eines kreativen Ordnungselement zum Ordnen von **Schreibutensilien**. In die Oberseite des Holzklotzes sind **6 Löcher** zum Halten von Stiften gebohrt. Eines ist dabei etwas Größer um auch das Halten von **Klebestiften**, Flaschen und ähnlichen größeren Objekten zu gewährleisten. Ein **Griff** an der Oberseite macht das Element, **mobil und einfach tragbar**.
+### Ideenskizze
+![[skizze.excalidra]]
 ### Technische Zeichnung
 **Vorderansicht:**
-![[bild.png]]
 
+---
 ## Vorgehen und Probleme beim Bau
 ### Grundblock
 - Zuerst hab ich mit dem Forsterbohrer die großen Löcher im Holzklotz ausgebohrt.
@@ -21,4 +28,8 @@ Bau eines kreativen Ordnungselement zum Ordnen von **Schreibtischutensilien**. I
 - Danach habe ich alle seiten des entstandenen Objekts abgeschliffen.
 - Daraufhin habe ich den Tragegriff zusammengebaut.
 - Danach habe ich den Griff an den Klotz geleimt, schrauben konnte ich nicht, da die Bohrungen im weg waren.
+- Ich habe den Griff sauber abgeschliffen.
 
+---
+## Fazit
+Insgesamt bin ich mit dem Ergebnis ziemlich zufrieden. Das Ordnungselement erfüllt genau das, was ich mir zu Beginn vorgestellt hatte: Es hält Stifte, Klebestifte und andere Utensilien ordentlich an einem Platz, und dank des Tragegriffs lässt es sich problemlos transportieren.
