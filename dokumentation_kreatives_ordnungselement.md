@@ -1,13 +1,14 @@
 # Dokumentation Kreatives Ordnungselement
 ## Inhaltsangabe
 **1.0** Planung
-	**1.1** Produktbeschreibung 
-	**1.2** Ideenskizze
-	**1.3** Technische Zeichnung
+> **1.1** Produktbeschreibung 
+> **1.2** Ideenskizze
+> **1.3** Technische Zeichnung
 **2.0** Dokumentation, Vorgehen und Probleme beim bau.
 **3.0** Abschluss
 
 ---
+
 ## Planung
 ### Produktbeschreibung
 Bau eines kreativen Ordnungselement zum Ordnen von **Schreibutensilien**. In die Oberseite des Holzklotzes sind **6 Löcher** zum Halten von Stiften gebohrt. Eines ist dabei etwas Größer um auch das Halten von **Klebestiften**, Flaschen und ähnlichen größeren Objekten zu gewährleisten. Ein **Griff** an der Oberseite macht das Element, **mobil und einfach tragbar**.
