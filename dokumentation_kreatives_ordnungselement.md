@@ -27,15 +27,17 @@ Bau eines kreativen Ordnungselement zum Ordnen von **Schreibutensilien**. In die
 ### Grundblock
 - Zuerst hab ich mit dem Forsterbohrer die großen Löcher im Holzklotz ausgebohrt.
 - Die *kleinen Löcher* für die Stifte gebohrt
+- Als ich die Kleinen Löcher Bohren wollte, stieß ich auf das Problem, dass die Löcher zu kleine für Stifte waren. Ich passte also den Durchmesser von 6mm auf 10mm an, und änderte die *technische zeichnung*.
 - Ich leime zwei zugeschnittene 1.5 cm Holzplatten aufeinander, so dass sie einen 3 cm dicken Holzblock ergeben.
 - Ich bohre ein Großes Loch in den Block.
 - Ich befestige den Block auf dem Grundblock, so dass die Löcher zueinander passen.
-  Das hat den Sinn, das man ein größeres Loch hat, um längere Objekte zu lagern. Das Loch muss deshalb so groß sein, da man mit dem Forsterbohrer maximal 5cm in den Klotz bohren kann.
+-  Das hat den Sinn, das man ein größeres Loch hat, um längere Objekte zu 	 lagern. Das Loch muss deshalb so groß sein, da man mit dem Forsterbohrer maximal 5cm in den Klotz bohren kann.
 - Danach habe ich alle seiten des entstandenen Objekts abgeschliffen.
 - Daraufhin habe ich den Tragegriff zusammengebaut.
 - Danach habe ich den Griff an den Klotz geleimt, schrauben konnte ich nicht, da die Bohrungen im weg waren.
 - Ich habe den Griff sauber abgeschliffen.
 
 ---
+
 ## Fazit
-Insgesamt bin ich mit dem Ergebnis ziemlich zufrieden. Das Ordnungselement erfüllt genau das, was ich mir zu Beginn vorgestellt hatte: Es hält Stifte, Klebestifte und andere Utensilien ordentlich an einem Platz, und dank des Tragegriffs lässt es sich problemlos transportieren.
+Insgesamt bin ich mit dem Ergebnis ziemlich zufrieden. Das Ordnungselement erfüllt genau das, was ich mir zu Beginn vorgestellt hatte: Es hält Stifte, Klebestifte und andere Utensilien ordentlich an einem Platz, und dank des Tragegriffs lässt es sich problemlos transport.
